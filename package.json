@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "description": "Clipboard management plugin for Cordova/PhoneGap",
     "cordova": {
-        "id": "com.verso.cordova.clipboard",
+        "id": "com.edward.cordova.clipboard",
         "platforms": [
             "ios",
             "android",
@@ -25,9 +25,9 @@
     ],
     "engines": [{
         "name": "cordova",
-        "version": ">=3.0.0"
+        "version": ">=4.0.0"
     }],
-    "author": "",
+    "author": "Edward",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/edwardmoses/CordovaClipboard/issues"
