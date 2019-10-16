@@ -1,6 +1,6 @@
 {
-    "name": "CordovaClipboard",
-    "version": "0.1.0",
+    "name": "edward-CordovaClipboard",
+    "version": "1.0.0",
     "description": "Clipboard management plugin for Cordova/PhoneGap",
     "cordova": {
         "id": "com.edward.cordova.clipboard",
