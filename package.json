@@ -1,31 +1,36 @@
 {
-  "name": "com-edward-cordovaClipboard",
-  "version": "1.2.4",
-  "description": "This plugin is intended to copy the text on the device",
-  "cordova": {
-    "id": "com-edward-cordovaClipboard",
-    "platforms": [
-      "android",
-      "ios"
-    ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/edwardmoses/CordovaClipboard"
-  },
-  "keywords": [
-    "cordova",
-    "photoviewer",
-    "ecosystem:cordova",
-    "cordova-android",
-    "cordova-ios"
-  ],
-  "author": "Edward-Moses",
-  "license": "MIT",
-  "scripts": {
-    "build": "tsc"
-  },
-  "devDependencies": {
-    "typescript": "3.1.1"
-  }
+    "name": "CordovaClipboard",
+    "version": "0.1.0",
+    "description": "Clipboard management plugin for Cordova/PhoneGap",
+    "cordova": {
+        "id": "com.verso.cordova.clipboard",
+        "platforms": [
+            "ios",
+            "android",
+            "wp8"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/edwardmoses/CordovaClipboard.git"
+    },
+    "keywords": [
+        "clipboard",
+        "copy",
+        "paste",
+        "ecosystem:cordova",
+        "cordova-ios",
+        "cordova-android",
+        "cordova-wp8"
+    ],
+    "engines": [{
+        "name": "cordova",
+        "version": ">=3.0.0"
+    }],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/edwardmoses/CordovaClipboard/issues"
+    },
+    "homepage": "https://github.com/edwardmoses/CordovaClipboard#readme"
 }
